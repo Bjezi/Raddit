@@ -8,6 +8,7 @@ end
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
+gem 'simple_form'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'
